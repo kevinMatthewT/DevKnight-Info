@@ -1,8 +1,26 @@
 .Top-Segment{
-    background-color: brown;
-    height: 400px;
+    background-color: #F08973 ;
+    top: 0%;
 }
 
-h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 200px;
 
+}
+
+h1.MeM{
+    font-size: 100;
+    text-align: center;
+}
+
+
+li.members{
+    display: inline;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+    margin-left: 20px;
+    
 }
